@@ -1,16 +1,16 @@
 {
-    "name": "spatie/laravel-mailcoach-monaco",
-    "description": "A Monaco editor package for Mailcoach",
+    "name": "krissanwat/laravel-monaco",
+    "description": "A Monaco editor package for Laravel",
     "keywords": [
         "spatie",
-        "laravel-mailcoach-monaco"
+        "laravel-monaco"
     ],
     "homepage": "https://github.com/spatie/laravel-mailcoach-monaco",
     "authors": [
         {
-            "name": "Rias",
-            "email": "rias@spatie.be",
-            "homepage": "https://spatie.be",
+            "name": "kriss",
+            "email": "me@kriss.io",
+            "homepage": "https://kriss.io",
             "role": "Developer"
         }
     ],
@@ -29,7 +29,7 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "https://satis.spatie.be"
+            "url": "https://github.com/krissnawat/laravel-monaco"
         }
     ],
     "autoload": {
